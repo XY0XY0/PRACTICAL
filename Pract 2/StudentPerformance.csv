@@ -1,0 +1,21 @@
+gender,math score,reading score,writing score,placement score,club join year,placement offer count
+male ,78,76,69,78,2020,2
+female,,65,71,68,2018,1
+male ,61,63,69,79,2020,2
+male ,71,79,65,75,2018,2
+male ,64,,76,71,2021,1
+female,61,70,69,66,2022,1
+female,78,77,74,68,2019,1
+male ,94,80,,70,2020,1
+male ,78,78,64,68,2018,1
+female,64,60,60,70,2022,1
+female,80,71,67,63,2021,1
+male ,75,63,75,67,2019,1
+female,76,72,63,96,2020,3
+female,75,77,70,62,2022,1
+male ,73,74,78,69,2021,1
+male ,80,64,62,73,2019,1
+female,63,73,60,60,2018,1
+male ,63,78,71,79,2019,2
+male ,62,79,76,80,2021,2
+female,76,76,66,63,2022,1
